@@ -1,4 +1,4 @@
-oped by Ahegao Devs
+#Developed by Ahegao Devs
 # (c) ahegao.ovh 2022
 
 from flask_restful import Resource, Api, reqparse
